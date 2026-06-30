@@ -1,6 +1,6 @@
 -- Digital Nurture 5.0 | Module 3: Database Integration
 -- Hands-On 2: DML, Joins & Aggregations
--- Name: BALAJI A
+-- Name: RAMESH RENUKA
 
 -- use our database
 USE college_db;
